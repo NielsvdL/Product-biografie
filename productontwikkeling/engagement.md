@@ -18,6 +18,10 @@ Een notificatie binnen een week na de eerste keer inloggen kan er voor zorgen da
 
 Ik heb er voor gekozen om een aantal push-notificaties te introduceren die er voor zorgt dat de gebruiker op de hoogte wordt gesteld van nieuwe gebeurtenissen en een stukje engagement.
 
+![](../.gitbook/assets/1c5cf6d569ce54e7156974207585d130.png)
+
+![](../.gitbook/assets/aa755bab78e5dc591dee6e013eef02cb.png)
+
 De notificaties:
 
 * Je hebt een nieuw feedback verzoek ontvangen van \[Naam\], beantwoord deze nu!
@@ -30,6 +34,4 @@ Voorbeeld:
 
 
 ![](../.gitbook/assets/push-notifications-with-3-actions.png)
-
-![Graph van Invesp waarin zij aantonen hoe belangrijk notificaties zijn](../.gitbook/assets/push-notification.jpg)
 
